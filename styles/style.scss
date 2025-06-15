@@ -98,7 +98,6 @@ body {
 
   &:not(:nth-child(1)) {
     padding: var(--default-padding);
-    justify-content: center;
 
     @include mobile {
       margin: 0 var(--default-padding);
